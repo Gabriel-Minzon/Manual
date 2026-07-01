@@ -10,3 +10,7 @@
 - Escreva os pontos principais das aulas, principalmente quando o professor falar sobre algo que tenha dúvida para depois poder pesquisar sem ter que necessariamente depender da memória
 - Fazer resumos ou mapas mentais que ajudam tanto para estudar depois, tanto para conseguir fixar mais fácil o conteúdo na cabeça
 - Ter exercícios resolvidos podem te ajudar na hora de estudar, e podem ajudar a entender melhor o assunto
+
+
+## Capítulo 3: Aproveite as oportunidades
+- Aproveite eventos como visitas técnicas e palestras. Com essas oportunidades você pode aprender mais sobre diferentes áreas de profissão, descobrir o que empresas buscam em profissionais, como funcionam empresas etc
