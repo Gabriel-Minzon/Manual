@@ -4,3 +4,9 @@
 - Faça anotações sobre datas de entregas de trabalhos/provas/apresentações ou até mesmo usar um aplicativo de agenda para se programar
 - Se tiver muito trabalho ou atividades acumuladas. Comece a priorizar eles ainda mais se estiverem perto do prazo de entrega
 - Use alarmes para controlar as horas ou dias
+
+
+## Capítulo 2: Dicas de anotações 
+- Escreva os pontos principais das aulas, principalmente quando o professor falar sobre algo que tenha dúvida para depois poder pesquisar sem ter que necessariamente depender da memória
+- Fazer resumos ou mapas mentais que ajudam tanto para estudar depois, tanto para conseguir fixar mais fácil o conteúdo na cabeça
+- Ter exercícios resolvidos podem te ajudar na hora de estudar, e podem ajudar a entender melhor o assunto
